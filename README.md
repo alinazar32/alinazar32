@@ -8,9 +8,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Artificial Intelligence projects
 - 🌱 I’m currently learning Coding 
 - 👯 I’m looking to collaborate on projects based on  AI
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🤔 I’m looking for help with anything i stuck with
+- 💬 Ask me about machine learning and deep learning
 - 📫 How to reach me: alynazzer39@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  
+  
   
